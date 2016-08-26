@@ -1,16 +1,14 @@
-layout_spectrum: 0.07291848747991025
-typography_spectrum: 0.6597538329660892
+layout_spectrum: 0.732843624195084
+typography_spectrum: 0.2392932514194399
 color:
-  brandStrength: 0.20911100902594626
-  lightness: 0.3707171706482768
-  saturation: 0.9999476738739759
-  rhythmicContrast: 0.0015170678962022066
+  brandStrength: 0.570217720232904
+  lightness: 0.8744007234927267
+  saturation: 0.40222309646196663
+  rhythmicContrast: 0.2974543939344585
   brandColors:
-    - '#6C6E58'
-    - '#3E423A'
-    - '#417378'
-    - '#A4CFBE'
-    - '#F4F7D9'
-name: Will Tynan
-title: The Penny Gentleman
-description: ''
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Music
