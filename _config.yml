@@ -1,0 +1,14 @@
+layout_spectrum: 0.732843624195084
+typography_spectrum: 0.2392932514194399
+color:
+  brandStrength: 0.570217720232904
+  lightness: 0.8744007234927267
+  saturation: 0.40222309646196663
+  rhythmicContrast: 0.2974543939344585
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Music
